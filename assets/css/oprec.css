@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(238, 234, 200);
+}
+
+.judul{
+    font-family: 'Raleway',sans-serif;
+    text-transform: uppercase;
+    font-size: 18pt;
+    margin: 5px 0 10px 0;
+    color: rgb(92,80,31);
+}
+
+hr{
+    border:1px solid rgb(92, 80, 31);
+}
+
+.bidang{
+    background-color: white;
+    padding: 5px 10px 5px 10px;
+    box-shadow: 5px 5px 5px #888;
+}
+
+.division-item {
+    padding: 10px;
+    text-align: center;
+    font-weight: lighter;
+    font-size: medium;
+    height: 100px;
+    /*line-height: 100px;*/
+}
+.division-item .panel-heading {
+    height: 80px;
+    line-height: 80px;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+}
+
+.division-item .panel-heading span {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.division-item:hover {
+    cursor: move;
+}
+
+.division-item-top {
+    font-weight: bold;
+}
+
+.division-item-placeholder .panel {
+    background: none;
+}
+
+.division-item-placeholder .panel .panel-heading {
+    background: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.division-pool {
+    padding: 12px;
+    border: 1px dashed gray;
+}
+
+textarea {
+    resize: vertical;
+}
+
+footer {
+    margin-top:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    background-color:#efefef;
+}
+
+input.error, textarea.error, input.error:focus, textarea.error:focus {
+    border: 1px solid red;
+}
+
+.error-validation {
+    color: red;
+    display: none;
+}
+
+.modal .info {
+    margin-bottom: 10px;
+}
