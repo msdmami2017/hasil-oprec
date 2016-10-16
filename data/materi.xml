@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Materi dan Kajian</nama>
+		<ketua>Alvin Trianto A (MA'15)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>14315038</nim>
+		<nama>Abdu Ravi Zakaria</nama>
+		<jurusan>Teknik Pangan</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>10612005</nim>
+		<nama>Afifah Nurazizatul Hasanah</nama>
+		<jurusan>Biologi</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>10315006</nim>
+		<nama>Ajraini Nazli</nama>
+		<jurusan>Astronomi</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>16516123</nim>
+		<nama>Andi Annisa Salsabila</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>10115097</nim>
+		<nama>Dana Annisa Riefina</nama>
+		<jurusan>Matematika</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16416158</nim>
+		<nama>Dennis Deviandoni</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>16516220</nim>
+		<nama>Dion Saputra</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>16616102</nim>
+		<nama>Fahmi Octavialdo</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>16616008</nim>
+		<nama>Fajrul Mutaqin</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>12815012</nim>
+		<nama>Faridl Gifari Kertabudi</nama>
+		<jurusan>Meteorologi</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>16516177</nim>
+		<nama>Gabriel Dicky Andrianto</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>15015001</nim>
+		<nama>Ginik Indarti</nama>
+		<jurusan>Teknik Sipil</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>10115013</nim>
+		<nama>Handik Yuwono </nama>
+		<jurusan>Matematika </jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>16716276</nim>
+		<nama>Iqbal Saputra</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>16516353</nim>
+		<nama>Julian Rifky Santika</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>16216071</nim>
+		<nama>Marha Nur Amalina</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>15515061</nim>
+		<nama>Muhammad Rais Syam</nama>
+		<jurusan>Teknik Kelautan</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>16816064</nim>
+		<nama>Nadilla Ramadhita</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>16716096</nim>
+		<nama>Nico Gamalliel</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>16916177</nim>
+		<nama>Pawaidul Ilmi</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>16516011</nim>
+		<nama>Raditya Priyongga</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>16916259</nim>
+		<nama>Rafi Riananta Arya</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>19716155</nim>
+		<nama>Ramadhan Ali Fikri</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>16516384</nim>
+		<nama>Rifqi Rifaldi Utomo</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>25</no>
+		<nim>16716264</nim>
+		<nama>Rizki Basuki</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>26</no>
+		<nim>19816110</nim>
+		<nama>Rizky Dhimas Akbarezha</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>27</no>
+		<nim>13315017</nim>
+		<nama>Rizqi Ardhi</nama>
+		<jurusan>FT</jurusan>
+	</record>
+	<record>
+		<no>28</no>
+		<nim>16916146</nim>
+		<nama>Said Abdurrahman</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>29</no>
+		<nim>19916135</nim>
+		<nama>Samuel Gerald Marpaung</nama>
+		<jurusan>Planologi</jurusan>
+	</record>
+	<record>
+		<no>30</no>
+		<nim>19716162</nim>
+		<nama>Sarah Maulida Nur Rahmah</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>31</no>
+		<nim>16416195</nim>
+		<nama>Timotius Sumito</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>32</no>
+		<nim>16416050</nim>
+		<nama>Toyib Ahmad Ali</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>33</no>
+		<nim>12115070</nim>
+		<nama>Tubagus Muhammad Ibrahim</nama>
+		<jurusan>Teknik Pertambangan</jurusan>
+	</record>
+</data>

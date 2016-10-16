@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<nim>13514009</nim>
+		<nama>Rita</nama>
+	</record>
+	<record>
+		<nim>15113007</nim>
+		<nama>Santi</nama>
+	</record>
+
+</data-set>

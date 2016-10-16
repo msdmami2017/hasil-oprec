@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>SCUI</nama>
+		<ketua>Ary Hidayat (TG'14)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>16816170</nim>
+		<nama>Aidafi Arsyi</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>19916130</nim>
+		<nama>Amiantun Jahroh</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>16016116</nim>
+		<nama>Amsal Pardede</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>15315076</nim>
+		<nama>Annisa Nur Diana</nama>
+		<jurusan>Teknik Lingkungan</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>10115066</nim>
+		<nama>Eriz Ghozi Al Hakim</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16916235</nim>
+		<nama>Gregorius Bayu Aji Wibisono</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>15415082</nim>
+		<nama>Hamdi Alfansuri</nama>
+		<jurusan>Perencanaan Wilayah dan Kota</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>12814020</nim>
+		<nama>Hanifah Nur Azizah</nama>
+		<jurusan>Meteorologi</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>16616163</nim>
+		<nama>Indah Lestari Madelin</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>16716477</nim>
+		<nama>Jiilul Qur'Anil Fariq</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>16716187</nim>
+		<nama>Kezia Admadiredja</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>16716428</nim>
+		<nama>Ludy Imam Mp</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>16316173</nim>
+		<nama>M.Naufal Mahdy</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>16616330</nim>
+		<nama>Muhammad Faris</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>11915027</nim>
+		<nama>Nabila Nurul Ahmeidiati</nama>
+		<jurusan>Teknologi Pasca Panen</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>19816039</nim>
+		<nama>Nayla Marhamah Sadidah</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>19015173</nim>
+		<nama>Nofian Deastuti Hajarsari</nama>
+		<jurusan>Manajemen</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>16416063</nim>
+		<nama>Nur Fahira</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>16416314</nim>
+		<nama>Praptekto</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>19816172</nim>
+		<nama>Rd Galuh Tsurroya Azka Dewi</nama>
+		<jurusan>SITHR</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>19716131</nim>
+		<nama>Rima Raidah Rachmah</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>12815029</nim>
+		<nama>Ririp Rimba Gesangdani</nama>
+		<jurusan>Meteorologi</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>16616095</nim>
+		<nama>Rizky Novitasari</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>19916186</nim>
+		<nama>Salsabila Nur Hanifa</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>25</no>
+		<nim>19716144</nim>
+		<nama>Saskia Nandina</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>26</no>
+		<nim>16016038</nim>
+		<nama>Shinta Wulandari S.</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>27</no>
+		<nim>11915011</nim>
+		<nama>Wendy Febrianty</nama>
+		<jurusan>Teknologi Pasca Panen</jurusan>
+	</record>
+</data>

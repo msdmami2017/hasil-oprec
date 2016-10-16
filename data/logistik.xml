@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Logistik</nama>
+		<ketua>Grha Gandana Putra (TM'15)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>15415074</nim>
+		<nama>Adelina Kristin Sinabariba</nama>
+		<jurusan>Planologi</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>19916017</nim>
+		<nama>Adimas Raditya</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>16516280</nim>
+		<nama>Aditya Dwi Hartanto</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>15415034</nim>
+		<nama>Agustinus Pratama</nama>
+		<jurusan>Planologi</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>16716450</nim>
+		<nama>Alivia Vera Ruzita</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>15015092</nim>
+		<nama>Anantyanto Kurnia Wicaksono</nama>
+		<jurusan>Teknik Sipil</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>16016318</nim>
+		<nama>Armananda Ferialdy</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>16616262</nim>
+		<nama>Asep Mochammad Syawaludin Fetriady </nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>16616037</nim>
+		<nama>Azhar Ahmad Habiburrahman</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>19816161</nim>
+		<nama>Cahya Gumilar</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>16016271</nim>
+		<nama>Danni Satria Putera</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>16316104</nim>
+		<nama>Devi Permata Embunsari</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>16916134</nim>
+		<nama>Fakhri Mukti Prasetia</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>12515001</nim>
+		<nama>Fatur Rahman Abdillah</nama>
+		<jurusan>Teknik Metalurgi</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>16916272</nim>
+		<nama>Hafidz Azhar Jakaria</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>16716292</nim>
+		<nama>Johanna Muliany</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>16716384</nim>
+		<nama>Jorgensen</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>16516376</nim>
+		<nama>Kelvin Kristian</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>16316091</nim>
+		<nama>Kevin Yudistira Suranta</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>15415077</nim>
+		<nama>Muhamad Danar Pradono</nama>
+		<jurusan>Planologi</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>16316045</nim>
+		<nama>Muhammad Ganesha Utama</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>16416227</nim>
+		<nama>Muhammad Zidane Al Bana</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>13315015</nim>
+		<nama>N Imam Boni Mores</nama>
+		<jurusan>Fisika Teknik</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>16416049</nim>
+		<nama>Nanda Rizkika Ruanawijaya</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>25</no>
+		<nim>19916199</nim>
+		<nama>Naufal Muhammad Iqbal</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>26</no>
+		<nim>12915027</nim>
+		<nama>Nida El-Islamy</nama>
+		<jurusan>Oseanografi</jurusan>
+	</record>
+	<record>
+		<no>27</no>
+		<nim>12915028</nim>
+		<nama>Putri Egayulia</nama>
+		<jurusan>Oseanografi</jurusan>
+	</record>
+	<record>
+		<no>28</no>
+		<nim>16316267</nim>
+		<nama>Rachdyan Naufal</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>29</no>
+		<nim>16716191</nim>
+		<nama>Rafi Bima Kautsar</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>30</no>
+		<nim>16916247</nim>
+		<nama>Rahman Satyanegara</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>31</no>
+		<nim>16416114</nim>
+		<nama>Raka Firdaus Utomo</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>32</no>
+		<nim>16916062</nim>
+		<nama>Reza Ardiansyah Weiman</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>33</no>
+		<nim>16316088</nim>
+		<nama>Ryan Ananda P.</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>34</no>
+		<nim>16616263</nim>
+		<nama>Syifa Maudini Nurtyas</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+</data>

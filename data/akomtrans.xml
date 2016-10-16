@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Akomodasi dan Transportasi</nama>
+		<ketua>D. Khoirin Nisa (KL'15)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>16116008</nim>
+		<nama>Alfiyan Faissofi Hidayat</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>16716016</nim>
+		<nama>Alwan Muhammad Ilham Irawan</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>16716216</nim>
+		<nama>Farrel Denabil Hendraputra</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>16716244</nim>
+		<nama>Janet Lukito Tirtaadji</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>16416098</nim>
+		<nama>Mohammad Bhagaskara Dipoatmojo</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16916302</nim>
+		<nama>Novan Rifky Lutfhyansyah</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>16916074</nim>
+		<nama>Rebecca Mae Merida Catalya Marbun</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>16416145</nim>
+		<nama>Rizka Amalia</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>16516047</nim>
+		<nama>Rizky Amira</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>13215041</nim>
+		<nama>Tri Fuad Aziz</nama>
+		<jurusan>Teknik Elektro</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>16716307</nim>
+		<nama>Wayan Rezaldi W</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+</data>

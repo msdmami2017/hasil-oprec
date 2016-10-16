@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Artistik</nama>
+		<ketua>Muhammad Rizky Kevindra (DP'15)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>16816256</nim>
+		<nama>Adhi Rahmadi Nugraha</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>16616321</nim>
+		<nama>Alya Tamira Putri</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>17515020</nim>
+		<nama>Amallia Yova Ardina</nama>
+		<jurusan>DP</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>16216123</nim>
+		<nama>Bagas Agung Nugroho</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>19916133</nim>
+		<nama>Bella Febrilia</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16216056</nim>
+		<nama>Bill Hikmah</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>19916141</nim>
+		<nama>Cantika Wiba Febrina</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>17514026</nim>
+		<nama>Christine Utomo</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>19716332</nim>
+		<nama>Clara Muharar Iffata</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>16316152</nim>
+		<nama>Desty Aulia</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>19916146</nim>
+		<nama>Dias Muhammad Akbar</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>19916179</nim>
+		<nama>Dinta Tiara</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>16916197</nim>
+		<nama>Evridha</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>19816058</nim>
+		<nama>Fathin Yasyifaini</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>19916031</nim>
+		<nama>Ferdian Fauzi Hendriawan</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>13515029</nim>
+		<nama>Finiko Kasula Novenda</nama>
+		<jurusan>IF</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>16716285</nim>
+		<nama>Fyrlia Hamid</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>15115021</nim>
+		<nama>Gian Mohammad Arvin</nama>
+		<jurusan>Geodesi</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>16016004</nim>
+		<nama>Giri Wardana</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>16716241</nim>
+		<nama>Hasna Fitria</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>19916121</nim>
+		<nama>Hilman Prakoso</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>19916037</nim>
+		<nama>I Made Agus Herma Saputra</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>15415066</nim>
+		<nama>Isma Aini</nama>
+		<jurusan>Planologi</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>19816168</nim>
+		<nama>Jessica Gita Adjani</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>25</no>
+		<nim>16116042</nim>
+		<nama>Jihad Muhamad Kaisa</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>26</no>
+		<nim>16116030</nim>
+		<nama>Jihan Khalida Zia</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>27</no>
+		<nim>19916001</nim>
+		<nama>Khana Kanun Kusumawedana</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>28</no>
+		<nim>16216074</nim>
+		<nama>Laksita Iffatt</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>29</no>
+		<nim>16416104</nim>
+		<nama>M Yusril Haidar Hamdani</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>30</no>
+		<nim>16716112</nim>
+		<nama>Maryam Karimah Baroroh</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>31</no>
+		<nim>15215069</nim>
+		<nama>Mentari Hanifa Dzikrina</nama>
+		<jurusan>Arsitektur</jurusan>
+	</record>
+	<record>
+		<no>32</no>
+		<nim>19816133</nim>
+		<nama>Mira Ismiyanti P</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>33</no>
+		<nim>16716081</nim>
+		<nama>Muhamad Tartila Sahid</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>34</no>
+		<nim>16616328</nim>
+		<nama>Muhammad Rizki Prabono</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>35</no>
+		<nim>16016228</nim>
+		<nama>Nathania Frieska Zamris</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>36</no>
+		<nim>16816052</nim>
+		<nama>Naura Salsabila Khairunnisa</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>37</no>
+		<nim>19716063</nim>
+		<nama>Navissa Syahnindita Putri</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>38</no>
+		<nim>19916045</nim>
+		<nama>Ni Wayan Primastuti</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>39</no>
+		<nim>16816193</nim>
+		<nama>Nilam Retno Wulan</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>40</no>
+		<nim>19716141</nim>
+		<nama>Puteri Annisa Tsamrotul Fuadah</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>41</no>
+		<nim>19916149</nim>
+		<nama>Rafidah Azzar Dea</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>42</no>
+		<nim>10614004</nim>
+		<nama>Rena Nn</nama>
+		<jurusan>Biologi</jurusan>
+	</record>
+	<record>
+		<no>43</no>
+		<nim>16816060</nim>
+		<nama>Rindang Noor Alifa</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>44</no>
+		<nim>19916131</nim>
+		<nama>Rizki Amellia</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>45</no>
+		<nim>16716338</nim>
+		<nama>Sabrinna Wulandari</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>46</no>
+		<nim>16116068</nim>
+		<nama>Safira Prisya Dewi</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>47</no>
+		<nim>16016264</nim>
+		<nama>Safira Wardhani</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>48</no>
+		<nim>19716239</nim>
+		<nama>Sarah Salsabila H</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>49</no>
+		<nim>16116069</nim>
+		<nama>Shafira Nur Ramdhania</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>50</no>
+		<nim>16716305</nim>
+		<nama>Verdyllan Nurendra Agusta</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+</data>

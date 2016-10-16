@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Enterpreneurship</nama>
+		<ketua>M. Rizy Arifianto (GD'15)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>16416225</nim>
+		<nama>Achmad Wisam M</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>16016085</nim>
+		<nama>Adeline Clarissa</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>19916209</nim>
+		<nama>Adilah Nidaul Yumna</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>19716291</nim>
+		<nama>Adli Kurniawan</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>16616081</nim>
+		<nama>Albert Kristian</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16716337</nim>
+		<nama>Diana Vitonia</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>16416285</nim>
+		<nama>Fadhil Luthfi</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>16316075</nim>
+		<nama>Fajar Fadilah Haris</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>16316036</nim>
+		<nama>Farid Muhammad Syabani</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>10615001</nim>
+		<nama>Feni Hastuti</nama>
+		<jurusan>Biologi</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>16016314</nim>
+		<nama>Hermawansyah Hidayat</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>19716261</nim>
+		<nama>Himawan Nur Ardhito</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>16116036</nim>
+		<nama>Hisyam Bin Ahmad Hairuddin Murtani</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>16516168</nim>
+		<nama>I Kadek Yuda Budipratama Giri</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>16416087</nim>
+		<nama>Jonathan P.S</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>16416312</nim>
+		<nama>Kevin Andrian Nababan</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>16616423</nim>
+		<nama>M. Qisthi Muallim</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>17215017</nim>
+		<nama>Maulidia Putri Perdani</nama>
+		<jurusan>Kriya</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>19816087</nim>
+		<nama>Mochamad Firdaus Ramadan</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>14515009</nim>
+		<nama>Muhamad Rizky Nuramadhan</nama>
+		<jurusan>Teknik Bioenergi dan Kemurgi</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>16716138</nim>
+		<nama>Muhammad Daffa Almusthofa</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>19716011</nim>
+		<nama>Natalia Dwiyanti</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>16516247</nim>
+		<nama>Nuha Adinata</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>16516335</nim>
+		<nama>Priagung Satyagama</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>25</no>
+		<nim>19816119</nim>
+		<nama>Raden Muhammad Fa'Izzakka Prasetyo</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>26</no>
+		<nim>19716100</nim>
+		<nama>Rifki Assudaisi</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>27</no>
+		<nim>16316081</nim>
+		<nama>Rizky Sergie Harriz</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>28</no>
+		<nim>10615070</nim>
+		<nama>Salimah Idzaturrohim</nama>
+		<jurusan>Biologi</jurusan>
+	</record>
+	<record>
+		<no>29</no>
+		<nim>19716152</nim>
+		<nama>Sodiko Hidayad</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>30</no>
+		<nim>16516328</nim>
+		<nama>Steven Sukma Limanus</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>31</no>
+		<nim>16316029</nim>
+		<nama>Titan Muslin Al-Khan</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+</data>

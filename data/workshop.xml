@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Workshop &amp; Tour</nama>
+		<ketua>Dedi Alfian (MT'15)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>16716233</nim>
+		<nama>Adi Dwi Yulianto</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>16916273</nim>
+		<nama>Afief Riezaldy Ahmad</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>13315089</nim>
+		<nama>Ahmad Zikra A</nama>
+		<jurusan>Teknik Fisika</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>16616387</nim>
+		<nama>Ainunnisa Aulia Alfatihah </nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>16516051</nim>
+		<nama>Aisyah Nurulhaqi S</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16716085</nim>
+		<nama>Aliya Ramadhani</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>13112026</nim>
+		<nama>Almas Hardiantoro</nama>
+		<jurusan>Teknik Mesin</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>16416236</nim>
+		<nama>Alroy Suchipto</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>16216078</nim>
+		<nama>Alya Faiha Mardani</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>16516253</nim>
+		<nama>Amanda Ayu Liviani</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>19716156</nim>
+		<nama>Amelia Velika Yukuri</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>16516041</nim>
+		<nama>Amirah Ayu Mudhiah Fahren</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>19716302</nim>
+		<nama>Anastasia Zulfa</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>16716071</nim>
+		<nama>Anastasya Indah Tioria Silitonga</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>16716471</nim>
+		<nama>Andi Muhammad Karaka Kilat</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>16316003</nim>
+		<nama>Andriansyah Putra</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>16516094</nim>
+		<nama>Angga Yohanes</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>16316145</nim>
+		<nama>Anggi Putra Kedua</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>16716118</nim>
+		<nama>Anggita Purwandasari</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>16616222</nim>
+		<nama>Anindita Puspa Sari</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>16916168</nim>
+		<nama>Annisa Asyrof</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>16616182</nim>
+		<nama>Anwar Irwandi Hamids</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>19916194</nim>
+		<nama>Arienta Niadisya</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>19716150</nim>
+		<nama>Aril Rivai Ahmad Dermawan</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>25</no>
+		<nim>19916177</nim>
+		<nama>Arina Puspitaningrum</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>26</no>
+		<nim>16916010</nim>
+		<nama>Ashari Rahmat Prakosa</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>27</no>
+		<nim>16716224</nim>
+		<nama>Athar Naufal M</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>28</no>
+		<nim>16016159</nim>
+		<nama>Audrey Dian Fahira</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>29</no>
+		<nim>19916054</nim>
+		<nama>Audrey Wilona Tiarma Christabel</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>30</no>
+		<nim>19716206</nim>
+		<nama>Avrantsa Alna Qamara</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>31</no>
+		<nim>16916028</nim>
+		<nama>Ayu Nurizza</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>32</no>
+		<nim>19916172</nim>
+		<nama>Azizah Rahmazahra Harsanto</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>33</no>
+		<nim>19716298</nim>
+		<nama>Bella Khafid Nuruddin</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>34</no>
+		<nim>16716322</nim>
+		<nama>Benny Andreas Pasaribu</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>35</no>
+		<nim>16716371</nim>
+		<nama>Bernadeta Adinda I. P</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>36</no>
+		<nim>12015005</nim>
+		<nama>Bintang Azhari</nama>
+		<jurusan>Teknik Geologi</jurusan>
+	</record>
+	<record>
+		<no>37</no>
+		<nim>16416198</nim>
+		<nama>Budiman Dwi Putra</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>38</no>
+		<nim>19816160</nim>
+		<nama>Chaerunisa Sephia</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>39</no>
+		<nim>19916047</nim>
+		<nama>Cherryl Sastiana Zadhine</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>40</no>
+		<nim>19916120</nim>
+		<nama>Chintya Hermawati</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>41</no>
+		<nim>16916198</nim>
+		<nama>Della Sinthya Gita Ananda</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>42</no>
+		<nim>16716149</nim>
+		<nama>Dennisa Yufania</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>43</no>
+		<nim>16316158</nim>
+		<nama>Dephita Vega Koswara</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>44</no>
+		<nim>16016319</nim>
+		<nama>Devi Fitri Ferdania</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>45</no>
+		<nim>16716190</nim>
+		<nama>Diandra Adani Mazaya</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>46</no>
+		<nim>16716350</nim>
+		<nama>Diannisa Septiana</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>47</no>
+		<nim>16416041</nim>
+		<nama>Dinda Putri Pramestiningrum</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>48</no>
+		<nim>16016209</nim>
+		<nama>Dio Jordy</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>49</no>
+		<nim>10315036</nim>
+		<nama>Dio Tri Eka Putra</nama>
+		<jurusan>Astronomi</jurusan>
+	</record>
+	<record>
+		<no>50</no>
+		<nim>16016230</nim>
+		<nama>Disti Amalia Pusparanti</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>51</no>
+		<nim>16016131</nim>
+		<nama>Dwi Sakti Aldianto P</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>52</no>
+		<nim>16616366</nim>
+		<nama>Elma Adnin</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>53</no>
+		<nim>16016246</nim>
+		<nama>Elmo Refindra</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>54</no>
+		<nim>19916011</nim>
+		<nama>Elsi Syavira Husin</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>55</no>
+		<nim>16716023</nim>
+		<nama>Elvin Buntoro</nama>
+		<jurusan>FTI </jurusan>
+	</record>
+	<record>
+		<no>56</no>
+		<nim>19716041</nim>
+		<nama>Elvira Benita Panggabean</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>57</no>
+		<nim>16116088</nim>
+		<nama>Erlita Putri Nugrahati</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>58</no>
+		<nim>16016346</nim>
+		<nama>Ervin Naufal Arrasyid</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>59</no>
+		<nim>16016237</nim>
+		<nama>Erwin Pribadi Mukti</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>60</no>
+		<nim>16916152</nim>
+		<nama>Esa Lahan Asawan </nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>61</no>
+		<nim>19816032</nim>
+		<nama>Esti Lestari</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>62</no>
+		<nim>16416239</nim>
+		<nama>Fadhilah Ajie Rahmandika</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>63</no>
+		<nim>19916200</nim>
+		<nama>Fadhilah Asasi</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>64</no>
+		<nim>16316155</nim>
+		<nama>Fadhlilah Faiz Ulwan</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>65</no>
+		<nim>16416202</nim>
+		<nama>Faiz Alfianto</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>66</no>
+		<nim>19816107</nim>
+		<nama>Fanni Fadilah</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>67</no>
+		<nim>16516327</nim>
+		<nama>Farhan Hafiz B.</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>68</no>
+		<nim>16616012</nim>
+		<nama>Farhan Muhammad</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>69</no>
+		<nim>16016334</nim>
+		<nama>Fariyatul Ainiyah</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>70</no>
+		<nim>16916200</nim>
+		<nama>Fauzan Dwi Yulianto </nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>71</no>
+		<nim>16316059</nim>
+		<nama>Fauziah Fangia Indra</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>72</no>
+		<nim>16316098</nim>
+		<nama>Felicia Indraswari</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>73</no>
+		<nim>19716217</nim>
+		<nama>Fifi Alayda Sari</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>74</no>
+		<nim>16216086</nim>
+		<nama>Fillahi Firqin Millati</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>75</no>
+		<nim>11515047</nim>
+		<nama>Fitri Nurul Kamila</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>76</no>
+		<nim>19916055</nim>
+		<nama>Foreign Qrisyantenium</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>77</no>
+		<nim>16016262</nim>
+		<nama>Galuh Ayodya Pahlevi</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>78</no>
+		<nim>16416193</nim>
+		<nama>Garindra Harvianto </nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>79</no>
+		<nim>16616174</nim>
+		<nama>Gary Nata Permana</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>80</no>
+		<nim>19716094</nim>
+		<nama>Geraldine Hizkia Tanuwijaya</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>81</no>
+		<nim>16216045</nim>
+		<nama>Giena Sofia</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>82</no>
+		<nim>16316037</nim>
+		<nama>Gilang Enggar Lana</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>83</no>
+		<nim>16016187</nim>
+		<nama>Gilang Hansagita</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>84</no>
+		<nim>16916082</nim>
+		<nama>Glenn Cavalli</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>85</no>
+		<nim>16916037</nim>
+		<nama>Gultom Laurensius Patar</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>86</no>
+		<nim>16516231</nim>
+		<nama>Gusti Triandi Winata</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>87</no>
+		<nim>16516076</nim>
+		<nama>Harso Adjie Brotosukmono</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>88</no>
+		<nim>19716087</nim>
+		<nama>Hasyim Siraj</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>89</no>
+		<nim>16716398</nim>
+		<nama>Hizkia Manuel Vieri</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>90</no>
+		<nim>16316184</nim>
+		<nama>Ihsan</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>91</no>
+		<nim>19716102</nim>
+		<nama>Ilham Pristaka Yudha</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>92</no>
+		<nim>16116020</nim>
+		<nama>Ilham Zalhasmy Kardjono</nama>
+		<jurusan>SITH-S </jurusan>
+	</record>
+	<record>
+		<no>93</no>
+		<nim>16716169</nim>
+		<nama>Indira Kirana</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>94</no>
+		<nim>16616153</nim>
+		<nama>Jacob Christopher</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>95</no>
+		<nim>16016346</nim>
+		<nama>Jeehan Emil Khalisya</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>96</no>
+		<nim>19916147</nim>
+		<nama>Jefri Deliandri</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>97</no>
+		<nim>16716315</nim>
+		<nama>Jeremy Gavriel</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>98</no>
+		<nim>19716026</nim>
+		<nama>Joice Aurellia C</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>99</no>
+		<nim>16416087</nim>
+		<nama>Jonathan P.S</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>100</no>
+		<nim>19716327</nim>
+		<nama>Jorgie Muhammad Indrastiadi</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>101</no>
+		<nim>16016094</nim>
+		<nama>Jovi Abelpiero S.</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>102</no>
+		<nim>16616181</nim>
+		<nama>Julian Adiputra</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>103</no>
+		<nim>19716177</nim>
+		<nama>Khairul Arifin</nama>
+		<jurusan>SBM </jurusan>
+	</record>
+	<record>
+		<no>104</no>
+		<nim>16716094</nim>
+		<nama>Leo Setiadarma</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>105</no>
+		<nim>16616226</nim>
+		<nama>Lingga Alif Muttaqien</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>106</no>
+		<nim>19916142</nim>
+		<nama>M Rizky Fauzan</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>107</no>
+		<nim>16516040</nim>
+		<nama>M. Rafli Al Khadafi</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>108</no>
+		<nim>16316173</nim>
+		<nama>M. Naufal Mahdy</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>109</no>
+		<nim>10315019</nim>
+		<nama>Mauliddina Zulrahmiwati</nama>
+		<jurusan>Astronomi</jurusan>
+	</record>
+	<record>
+		<no>110</no>
+		<nim>16216095</nim>
+		<nama>Miskiyah Faiqoh</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>111</no>
+		<nim>16516425</nim>
+		<nama>Mochamad Alghifari</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>112</no>
+		<nim>16616124</nim>
+		<nama>Mohamad Fakhry Hanif Arjakusumah</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>113</no>
+		<nim>16916324</nim>
+		<nama>Muhammad Adnan Naufal</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>114</no>
+		<nim>19916231</nim>
+		<nama>Muhammad Amien Rais Wanggai</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>115</no>
+		<nim>19916098</nim>
+		<nama>Muhammad Fahmi Widiarto</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>116</no>
+		<nim>16716091</nim>
+		<nama>Muhammad Faizarha Handiman</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>117</no>
+		<nim>16916221</nim>
+		<nama>Muhammad Farkhan Abdillah</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>118</no>
+		<nim>19816114</nim>
+		<nama>Muhammad Firman Firdaus</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>119</no>
+		<nim>16416305</nim>
+		<nama>Muhammad Iqbal</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>120</no>
+		<nim>15015037</nim>
+		<nama>Muhammad Irsyad Syabana</nama>
+		<jurusan>Teknik Sipil</jurusan>
+	</record>
+	<record>
+		<no>121</no>
+		<nim>16316214</nim>
+		<nama>Muhammad Marvin Fauzaan</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>122</no>
+		<nim>16516342</nim>
+		<nama>Muhammad Nurraihan Naufal</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>123</no>
+		<nim>19916066</nim>
+		<nama>Muhammad Refardian Imaduddin</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>124</no>
+		<nim>16916124</nim>
+		<nama>Muhammad Rivaldi</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>125</no>
+		<nim>12015069</nim>
+		<nama>Muhammad Ziad</nama>
+		<jurusan>Teknik Geologi </jurusan>
+	</record>
+	<record>
+		<no>126</no>
+		<nim>16116041</nim>
+		<nama>Nabiilah Nuraini</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>127</no>
+		<nim>11215026</nim>
+		<nama>Nadya Ayu Lestari</nama>
+		<jurusan>Rekayasa Hayati</jurusan>
+	</record>
+	<record>
+		<no>128</no>
+		<nim>16916262</nim>
+		<nama>Naufal Alifyari</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>129</no>
+		<nim>16316063</nim>
+		<nama>Naufal Muhamad Adzkia</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>130</no>
+		<nim>16616225</nim>
+		<nama>Nicholas Calvin Raynaldi</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>131</no>
+		<nim>16416259</nim>
+		<nama>Nicko Junior</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>132</no>
+		<nim>16616398</nim>
+		<nama>Nurcholish Fauzi</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>133</no>
+		<nim>16716105</nim>
+		<nama>Nurul Hikmah</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>134</no>
+		<nim>11415055</nim>
+		<nama>Nurul Syafiqa</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>135</no>
+		<nim>16016275</nim>
+		<nama>Pradina Sofianti</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>136</no>
+		<nim>16516025</nim>
+		<nama>Prahasto Satrio Utomo</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>137</no>
+		<nim>16216100</nim>
+		<nama>Prayslia Tanika</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>138</no>
+		<nim>16516201</nim>
+		<nama>Qonita Salamah Auliya</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>139</no>
+		<nim>19916156</nim>
+		<nama>Raden Akmal Fauzi Kusumah</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>140</no>
+		<nim>16016316</nim>
+		<nama>Rahardian Fakhri Muhammad</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>141</no>
+		<nim>16316218</nim>
+		<nama>Regaska Pudawara</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>142</no>
+		<nim>12914014</nim>
+		<nama>Reza Agika Putra</nama>
+		<jurusan>Oseanografi</jurusan>
+	</record>
+	<record>
+		<no>143</no>
+		<nim>16716117</nim>
+		<nama>Rizky Octaviani</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>144</no>
+		<nim>16516030</nim>
+		<nama>Robertsen Putra Sugianto</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>145</no>
+		<nim>16516275</nim>
+		<nama>Ronaldo Matthew R</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>146</no>
+		<nim>16616417</nim>
+		<nama>Rugun Firni Sipayung</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>147</no>
+		<nim>16616218</nim>
+		<nama>Safira Rahmaniar Wanaputri</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>148</no>
+		<nim>16416148</nim>
+		<nama>Saif Izeldien Raizki</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>149</no>
+		<nim>16116038</nim>
+		<nama>Saila Rachma</nama>
+		<jurusan>SITH-S </jurusan>
+	</record>
+	<record>
+		<no>150</no>
+		<nim>19716268</nim>
+		<nama>Salma Amani</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>151</no>
+		<nim>16216034</nim>
+		<nama>Salsabila Nur Anzani</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>152</no>
+		<nim>19916214</nim>
+		<nama>Savita Thanra</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>153</no>
+		<nim>19916188</nim>
+		<nama>Selvia Diwanty</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>154</no>
+		<nim>16016018</nim>
+		<nama>Septiani Pratiwi</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>155</no>
+		<nim>16316112</nim>
+		<nama>Shafira Akhiria Hanani</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>156</no>
+		<nim>15015059</nim>
+		<nama>Shafira Nasya Amani</nama>
+		<jurusan>Teknik Sipil</jurusan>
+	</record>
+	<record>
+		<no>157</no>
+		<nim>16816076</nim>
+		<nama>Siti Hawa</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>158</no>
+		<nim>16316024</nim>
+		<nama>Siztia Rizki Assifa</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>159</no>
+		<nim>16016100</nim>
+		<nama>Sunika Suhayat</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>160</no>
+		<nim>16916041</nim>
+		<nama>Surya Yudha Pratidina</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>161</no>
+		<nim>16416076</nim>
+		<nama>Syamsi Alamsyah</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>162</no>
+		<nim>16516306</nim>
+		<nama>Tessya Rismonita</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>163</no>
+		<nim>16016219</nim>
+		<nama>Tiara Fadhilla Kusumawardhani</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>164</no>
+		<nim>16716211</nim>
+		<nama>Tsaqila Rizmadanty Singgih</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>165</no>
+		<nim>19716255</nim>
+		<nama>Valda N Izah</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>166</no>
+		<nim>16416120</nim>
+		<nama>Vanessa Antovie</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>167</no>
+		<nim>16716432</nim>
+		<nama>Veren</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>168</no>
+		<nim>19716175</nim>
+		<nama>Vico Dwi Avrianto</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>169</no>
+		<nim>16216028</nim>
+		<nama>Wakhida Rohmah Febriana Subardi</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>170</no>
+		<nim>16116013</nim>
+		<nama>William Steflandel Purba</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>171</no>
+		<nim>16616274</nim>
+		<nama>Winni Laxmi Dewi</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>172</no>
+		<nim>19816088</nim>
+		<nama>Yasriza Nanda</nama>
+		<jurusan>SITHR</jurusan>
+	</record>
+	<record>
+		<no>173</no>
+		<nim>16916057</nim>
+		<nama>Yasya Nur Muhammad</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>174</no>
+		<nim>16116082</nim>
+		<nama>Yeni Fitriani</nama>
+		<jurusan>SITH-S</jurusan>
+	</record>
+	<record>
+		<no>175</no>
+		<nim>16716166</nim>
+		<nama>Yovita</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>176</no>
+		<nim>16616059</nim>
+		<nama>Yuanna Violita</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>177</no>
+		<nim>11915001</nim>
+		<nama>Yuli Febrianty Iskandar</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>178</no>
+		<nim>16716225</nim>
+		<nama>Zakkiyah Azka Husnun Noor</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>179</no>
+		<nim>16016182</nim>
+		<nama>Zaky Rayadhi</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>180</no>
+		<nim>16616154</nim>
+		<nama>Zalza Puspita Arum</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>181</no>
+		<nim>16316205</nim>
+		<nama>Zenal Mutakin</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+</data>

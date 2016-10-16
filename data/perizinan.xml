@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Perizinan</nama>
+		<ketua>Rizdu Atmaja AE'15</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>16716367</nim>
+		<nama>Amelia Dianti</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>16316196</nim>
+		<nama>Anjani Prameswara</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>13115007</nim>
+		<nama>Anton</nama>
+		<jurusan>Teknik Mesin</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>16616143</nim>
+		<nama>Ariq Rama Nurvirgian</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>19716083</nim>
+		<nama>Bianda Nurasyah</nama>
+		<jurusan>SBM / TPB</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16916210</nim>
+		<nama>Bintara Barkah</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>19716121</nim>
+		<nama>Caren Christy Putri</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>13015072</nim>
+		<nama>Dimas Prasetyo Adjie</nama>
+		<jurusan>Teknik Kimia</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>12515049</nim>
+		<nama>Fairuuz Ryanhilmi</nama>
+		<jurusan>Teknik Metalurgi</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>16016077</nim>
+		<nama>Hasan Mustopa</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>16016283</nim>
+		<nama>I Ketut Rai Asmara Dipta</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>16016086</nim>
+		<nama>Karima Sarah Ghada</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>10615073</nim>
+		<nama>Lilis Lisnawati</nama>
+		<jurusan>Biologi</jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>16416072</nim>
+		<nama>Liviana Pustika Purwanto</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>16016244</nim>
+		<nama>Marcelino Gunawan</nama>
+		<jurusan>FMIPA</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>16716121</nim>
+		<nama>Mochammad Ilham Hamzah</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>16616141</nim>
+		<nama>Muhammad Amsyari Lagenda</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>12515026</nim>
+		<nama>Muhammad Arief Sasmita</nama>
+		<jurusan>Teknik metalurgi</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>16416159</nim>
+		<nama>Ramadhan Adhyza Farhan</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>19916106</nim>
+		<nama>Rifqi Muhammad Syahrial Abhitah</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>16716044</nim>
+		<nama>Rizky Utama</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>16316157</nim>
+		<nama>Syarli Annisa Noorsyablina</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>16416263</nim>
+		<nama>Tasya Syafira </nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>16316180</nim>
+		<nama>Verda Febrina Hastari</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+</data>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<divisi>
+		<nama>Produksi</nama>
+		<ketua>Syifa Wiranti (BI'15)</ketua>
+	</divisi>
+	<record>
+		<no>1</no>
+		<nim>18215036</nim>
+		<nama>Ahmad Fawwaz Zuhdi</nama>
+		<jurusan>STEI/STI</jurusan>
+	</record>
+	<record>
+		<no>2</no>
+		<nim>16716439</nim>
+		<nama>Ainil Khairin Nisa</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>3</no>
+		<nim>16316064</nim>
+		<nama>Alif Wirawan</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>4</no>
+		<nim>16916073</nim>
+		<nama>Alif Zaky Muhammad (Be A)</nama>
+		<jurusan>FTMD</jurusan>
+	</record>
+	<record>
+		<no>5</no>
+		<nim>16616303</nim>
+		<nama>Almer Fadhilezar</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>6</no>
+		<nim>16716372</nim>
+		<nama>Amanda Fitri Nadifa </nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>7</no>
+		<nim>19816044</nim>
+		<nama>Ayu Annisa Fara</nama>
+		<jurusan>SITH-R</jurusan>
+	</record>
+	<record>
+		<no>8</no>
+		<nim>13715019</nim>
+		<nama>Cahyo Widiantoro</nama>
+		<jurusan>MATERIAL</jurusan>
+	</record>
+	<record>
+		<no>9</no>
+		<nim>19716299</nim>
+		<nama>Elda Fitri</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>10</no>
+		<nim>16316007</nim>
+		<nama>Endry Rizky Ramadhan</nama>
+		<jurusan>FITB</jurusan>
+	</record>
+	<record>
+		<no>11</no>
+		<nim>16716095</nim>
+		<nama>Genta Muhammad Rahayu</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>12</no>
+		<nim>16616021</nim>
+		<nama>Hasna Riska Betaerdanta</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>13</no>
+		<nim>19716301</nim>
+		<nama>Hidayah Rizki Ramadhan</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>14</no>
+		<nim>16816125</nim>
+		<nama>Ivana Azmi Fitria</nama>
+		<jurusan>FSRD</jurusan>
+	</record>
+	<record>
+		<no>15</no>
+		<nim>16616382</nim>
+		<nama>Justin Ivan Surya</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>16</no>
+		<nim>16716036</nim>
+		<nama>Khalisa Putri Aqilah</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>17</no>
+		<nim>19716029</nim>
+		<nama>Lumban Gaol Beres Hasudungan</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>18</no>
+		<nim>19716107</nim>
+		<nama>Maudlin Klissa</nama>
+		<jurusan>SBM</jurusan>
+	</record>
+	<record>
+		<no>19</no>
+		<nim>16216014</nim>
+		<nama>Maulidya A. </nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>20</no>
+		<nim>19215070</nim>
+		<nama>Muhammad Fadli Rahmat</nama>
+		<jurusan>Kewirausahaan</jurusan>
+	</record>
+	<record>
+		<no>21</no>
+		<nim>19916063</nim>
+		<nama>Nabila Fairuza</nama>
+		<jurusan>SAPPK</jurusan>
+	</record>
+	<record>
+		<no>22</no>
+		<nim>16716012</nim>
+		<nama>Oryza Sativa</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>23</no>
+		<nim>16616029</nim>
+		<nama>Puteri Nugrahaning</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>24</no>
+		<nim>16416216</nim>
+		<nama>Rakha Ammarsetya Nugeraha</nama>
+		<jurusan>FTTM</jurusan>
+	</record>
+	<record>
+		<no>25</no>
+		<nim>16716279</nim>
+		<nama>Rizal Abdan Syakuron</nama>
+		<jurusan>FTI</jurusan>
+	</record>
+	<record>
+		<no>26</no>
+		<nim>16516366</nim>
+		<nama>Rizca Shafira Salsabila Makasuci</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>27</no>
+		<nim>16616131</nim>
+		<nama>Rosdinar Nazla Adelia</nama>
+		<jurusan>FTSL</jurusan>
+	</record>
+	<record>
+		<no>28</no>
+		<nim>16216143</nim>
+		<nama>Siti Octavia Dwiyanti</nama>
+		<jurusan>SF</jurusan>
+	</record>
+	<record>
+		<no>29</no>
+		<nim>A016037</nim>
+		<nama>Syifa Afifah</nama>
+		<jurusan>D3 Akademi Metrologi &amp; Instrumentasi</jurusan>
+	</record>
+	<record>
+		<no>30</no>
+		<nim>16516298</nim>
+		<nama>Zahid Abdurrohman</nama>
+		<jurusan>STEI</jurusan>
+	</record>
+	<record>
+		<no>31</no>
+		<nim>16516125</nim>
+		<nama>Zakka Izzatur Rahman Noor </nama>
+		<jurusan>STEI</jurusan>
+	</record>
+</data>
