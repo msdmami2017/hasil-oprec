@@ -12,7 +12,7 @@ function loadXMLDoc(xmlfile) {
 function keluarkan(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table="<tr><th>No</th><th>Nama</th><th>NIM</th><th>Fakultas/Jurusan</th></tr>";
+  var table="<tr><th>No</th><th>Nama</th><th>NIM</th><th>Fakultas/<br>Jurusan</th></tr>";
   var x = xmlDoc.getElementsByTagName("record");
   for (i = 0; i <x.length; i++) { 
     table += "<tr><td>" +
